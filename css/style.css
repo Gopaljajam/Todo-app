@@ -107,20 +107,21 @@ form input, form button {
 }
 
 .trash-btn, .complete-btn {
+    transition: all 0.3s ease;
     background: #ff764dcf;
     color: white;
     border:none;
     padding: 1rem;
 }
 .complete-btn {
-    background: #a8ffff;
+    background: #5bd9df;
 }
 .trash-btn:hover{
-    background: #000;
+    background: rgb(255, 180, 137);
     color: white;
 }
 .complete-btn:hover {
-    background: #000;
+    background: #bcffff;
     color: white;
 }
 
