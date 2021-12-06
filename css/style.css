@@ -54,8 +54,8 @@ header, form {
 
 .todo-input {
     font-family: cursive;
-    padding-top: 3px;
-    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-bottom: 5px;
 }
 
 form input, form button {
