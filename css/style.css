@@ -72,7 +72,6 @@ form input, form button {
     cursor: pointer;
     transition: all 0.3s ease;
     background:white;
-    min-width: auto;
 }
 
 .todo-button:hover {
