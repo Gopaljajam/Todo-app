@@ -59,7 +59,7 @@ header, form {
 }
 
 form input, form button {
-    padding: 0.5rem;
+    padding: 5px;
     font-size: 2rem;
     border: none;
     background: white;
@@ -72,7 +72,7 @@ form input, form button {
     cursor: pointer;
     transition: all 0.3s ease;
     background:white;
-    padding:0;
+    
 }
 
 .todo-button:hover {
